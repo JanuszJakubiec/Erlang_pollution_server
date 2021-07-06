@@ -1,4 +1,4 @@
-# Erlang_pollution_server
+# Erlang Pollution Server
 Simple project wirtten in Erlang. It contains two modules:
 * pollution
 * server
